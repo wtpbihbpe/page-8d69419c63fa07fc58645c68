@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "864b8dba1ef7db85b477441a",
+  "owner": "wtpbihbpe",
+  "repo": "page-8d69419c63fa07fc58645c68",
+  "title": "NTTSS",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8d69419c63fa07fc58645c68",
+      "a": "NTTSS",
+      "b": "",
+      "entity": "NTTSS",
+      "brand": "NTTSS",
+      "separator": "",
+      "path": "index.html",
+      "hash": "639fef7a44b841221c4ac8e70c98e87f619981609d445b7a1197fc6defef9f99",
+      "content": {
+        "keyword1": "NTTSS",
+        "keyword2": "",
+        "primary_entity": "NTTSS",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "NTTSS提供机场订阅与VPN网络加速服务，覆盖多地区节点与多端客户端下载，帮助用户稳定解锁流媒体、加速跨境办公与游戏，欢迎通过官网了解套餐并获取官方下载。",
+          "AI_DESCRIPTION": "NTTSS提供机场订阅与VPN网络加速服务，覆盖多地区节点与多端客户端下载，帮助用户稳定解锁流媒体、加速跨境办公与游戏，欢迎通过官网了解套餐并获取官方下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;overflow-x:hidden}*{box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F8F6F0;color:#12261C;line-height:1.75;font-size:16px}a{color:#1B4332}img,svg{display:none}header{background:#1B4332;color:#F4F1EA}header .inner,footer .inner,.wrap{max-width:1080px;margin:0 auto;padding:14px 16px}nav ul{display:flex;flex-wrap:wrap;gap:10px 16px;list-style:none;margin:0;padding:8px 0 0;justify-content:flex-start}nav a{color:#D8F3DC;text-decoration:none;font-size:15px}main{display:block}.hero{padding:28px 16px 8px}.hero h1{font-size:1.9rem;line-height:1.3;color:#1B4332;margin:0 0 12px;max-width:20em}.lead{font-size:1.05rem;max-width:46em;margin:0 0 16px;color:#24362C}.btn{display:inline-block;background:#2D6A4F;color:#F8F6F0;text-decoration:none;padding:10px 18px;border-radius:8px;font-weight:600;margin:0 8px 8px 0}.btn-ghost{background:transparent;color:#1B4332;border:2px solid #2D6A4F}.section{padding:8px 16px 28px}.card-box,.plan,.client,.faq details,.adbox,.linkbox{background:#FFFdf8;border:1px solid #D5E3D6;border-radius:12px;padding:16px}.row{display:flex;flex-direction:column;gap:16px}.col{flex:1;min-width:0}h2{font-size:1.45rem;color:#1B4332;margin:8px 0 12px}h3{font-size:1.12rem;color:#1B4332;margin:12px 0 8px}p,li{word-wrap:break-word}ul,ol{padding-left:1.2em}.plans{display:flex;flex-direction:column;gap:14px}.plan h3{margin-top:0}.price{font-size:1.35rem;font-weight:700;color:#2D6A4F}.annual{color:#3D5C4A;font-size:0.95rem;margin-bottom:8px}.plan.featured{background:#E8F5E9;border:3px solid #2D6A4F}.clients{display:flex;flex-direction:column;gap:12px}.steps{counter-reset:s}.steps li{margin:0 0 10px}details{margin:0 0 10px}summary{cursor:pointer;font-weight:650;color:#1B4332}footer{background:#1B4332;color:#E7F0E8;margin-top:12px}footer a{color:#D8F3DC}footer h2,footer h3{color:#F8F6F0}.grid2{display:flex;flex-direction:column;gap:12px}.muted{color:#3F5749;font-size:0.95rem}@media (min-width:760px){.row{flex-direction:row;align-items:stretch}.row.reverse{flex-direction:row-reverse}.plans{flex-direction:row;align-items:stretch}.plan{flex:1}.clients{flex-direction:row;flex-wrap:wrap}.client{flex:1 1 280px}.grid2{flex-direction:row}nav ul{justify-content:flex-end}.hero h1{font-size:2.15rem}}</style><header><div class=\"inner\"><strong>NTTSS 官方网站</strong><nav><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#clients\">客户端选择</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#download\">官网下载</a></li></ul></nav></div></header><main><section class=\"hero wrap\" id=\"intro\"><h1>NTTSS 官方网站 · 机场订阅与 VPN 加速器</h1><p class=\"lead\">NTTSS 面向个人与团队提供可订阅的网络加速服务。通过机场节点池与多端客户端，把跨境访问、流媒体播放和游戏线路整理成可管理的连接方案。本页说明套餐差异、客户端选择路径以及从订阅到连上节点的操作顺序，便于在官网完成下载与配置。</p><p><a class=\"btn\" href=\"#clients\">进入客户端选择</a><a class=\"btn btn-ghost\" href=\"#plans\">查看加速套餐</a></p></section><section class=\"section wrap\"><div class=\"row\"><div class=\"col\"><h2>NTTSS 是什么</h2><p>NTTSS 运营机场订阅与 VPN 梯子能力，把节点、流量配额和设备数量打包进清晰套餐。用户在官网选定方案后，用订阅链接导入 Clash、官方客户端或其他兼容应用，即可按地区切换线路完成网络加速。</p><p>节点侧重亚太与欧美常用出口，包含适合日常浏览的普通线路，以及旗舰版、团队版中的 IPLC 专线游戏优化。流媒体方面，基础版覆盖常用平台入门解锁，更高套餐提供全节点原生解锁，减少地区限制带来的缓冲中断。</p><p class=\"muted\">请以本站为 NTTSS 唯一官方网站识别入口。套餐说明、客户端下载指引与工单入口均集中在此，避免使用来源不明的镜像页。</p></div><div class=\"col card-box\"><h3>服务要点</h3><ul><li>机场订阅一键导入，节点列表随套餐更新</li><li>多设备同时在线，按套餐限制管理终端</li><li>流媒体解锁分层：基础线路与全节点原生</li><li>IPLC 专线面向对延迟敏感的游戏与会议</li><li>团队版支持企业定制路由与专属客户经理</li></ul></div></div></section><section class=\"section wrap\" id=\"plans\"><h2>NTTSS 套餐与流量配额</h2><p>三档方案对应轻度使用、主力加速和多人协作。价格按月展示，同时给出按年付优惠，便于长期使用机场订阅。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a class=\"btn\" href=\"#download\">前往官网下载入口</a></p></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a class=\"btn\" href=\"#clients\">按客户端开始配置</a></p></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a class=\"btn\" href=\"#guide\">查看团队接入说明</a></p></article></div></section><section class=\"section wrap\" id=\"scenes\"><div class=\"row reverse\"><div class=\"col\"><h2>使用场景</h2><p>NTTSS 把 VPN 梯子用在具体任务上，而不是抽象的“翻墙工具”口号。选择节点时优先看延迟与解锁策略，再决定是否升级到 IPLC 或 VIP 带宽。</p><h3>跨境办公与远程协作</h3><p>文档同步、代码仓库和会议软件对稳定性要求高。旗舰版优先工单适合需要工作日快速排障的用户；团队版可按部门拆分路由，避免所有流量挤在同一出口。</p><h3>课程、文献与流媒体</h3><p>留学听课、检索资料和影视平台常受地区版权限制。基础版可满足入门解锁，旗舰版与团队版的全节点原生解锁更适合长时间播放。</p><h3>游戏与实时对战</h3><p>对丢包敏感的对战与登录验证，可走 IPLC 专线游戏加速优化。连接后先测延迟，再把游戏进程加入分应用代理，避免整机流量抢占带宽。</p></div><div class=\"col card-box\"><h3>节点使用建议</h3><ol><li>日常网页优先选择地理邻近的普通线路。</li><li>流媒体切换至标注原生解锁的节点并刷新 DNS。</li><li>游戏仅代理指定进程，保留本地网络访问。 </li><li>多人同时在线时预留设备配额，避免挤占会话。</li><li>流量接近套餐上限时提前升级，减少中途中断。</li></ol></div></div></section><section class=\"section wrap\" id=\"clients\"><h2>客户端选择（重点）</h2><p>NTTSS 不绑定单一软件。官方网站按系统给出推荐客户端，统一导入同一份机场订阅。先确定设备系统，再决定图形客户端或核心内核，最后才打开节点列表。</p><div class=\"clients\"><article class=\"client\" id=\"download\"><h3>Windows / macOS</h3><p>桌面环境建议使用 NTTSS 官方客户端或 Clash 系图形壳。官方客户端内置订阅更新与分流模板，适合希望少改配置的用户。需要精细规则时，可改用兼容 Clash Meta 的面板导入相同链接。</p><p><a class=\"btn\" href=\"#guide\">桌面端导入步骤</a></p></article><article class=\"client\"><h3>Android</h3><p>移动端优先选择支持订阅批量和分应用代理的客户端。安装后关闭系统省电对 VPN 的限制，以免心跳被杀掉。公共 Wi-Fi 下可开启增强加密配置，再连接普通或 IPLC 节点。</p></article><article class=\"client\"><h3>iOS</h3><p>iOS 使用系统 VPN API 的第三方客户端导入 NTTSS 订阅。配置描述文件后在系统设置中允许 VPN。流媒体解锁请选择原生节点并避免同时开启冲突的智能路由开关。</p></article><article class=\"client\"><h3>路由与多设备</h3><p>软路由、OpenWrt 或旁路网关可在团队版下集中接入。把订阅写成定时更新任务，再按域名与端口分流。20 台设备配额适合工作室共享出口，但仍应按终端类型限制高峰带宽。</p></article></div><p class=\"muted\">客户端安装包与订阅地址仅通过 NTTSS 官网下载入口分发说明。本页所有下载链接指向站内锚点，用于引导完成选择，不跳转到不明域名。</p></section><section class=\"section wrap\" id=\"guide\"><div class=\"row\"><div class=\"col\"><h2>操作说明</h2><p>从官网到可用连接，建议按固定顺序操作，减少订阅无法更新或节点为空的情况。</p><ol class=\"steps\"><li>在套餐区确认流量、设备数与是否需要 IPLC 或定制路由，完成开通。</li><li>进入客户端选择，按系统安装对应应用，不要混用过期内核。</li><li>复制 NTTSS 订阅 URL，在客户端选择“从 URL 导入”或“订阅管理”。</li><li>更新节点列表，先连接延迟较低的普通线路验证可用性。</li><li>按场景切换流媒体原生节点或游戏 IPLC，并保存分流规则。</li><li>在设备列表中核对在线终端，闲置设备及时断开以释放配额。</li></ol></div><div class=\"col card-box\"><h3>常见配置注意</h3><p>若更新订阅失败，检查系统时间、TLS 拦截软件和复制时是否带入空格。若能连上但无法播放流媒体，改用全节点原生套餐中的对应地区出口并清空播放器缓存。</p><p>游戏加速不要全局代理下载器。将更新流量留在本地线路，把对战端口走 IPLC，可同时照顾速度与延迟。</p><p>团队用户把定制路由需求提交给专属客户经理，说明域名清单与办公时段，避免临时改规则造成其他人掉线。</p></div></div></section><section class=\"section wrap\" id=\"faq\"><h2>常见问题</h2><div class=\"faq\"><details><summary>NTTSS 提供的是机场还是 VPN？两者如何一起用？</summary><p>NTTSS 以机场订阅为核心，把多地区节点交给你常用的 VPN 与代理客户端。所谓梯子、加速器，在本站都指向同一套可导入的订阅：客户端负责加密与分流，机场负责出口与流量计量。按设备选择客户端后导入即可，不必重复安装多套互不兼容的服务。</p></details><details><summary>如何从 NTTSS 官网完成客户端下载并导入订阅？</summary><p>打开本页「客户端选择」对照系统挑选官方客户端或兼容应用，安装完成后回到用户中心复制订阅地址。在软件的订阅栏粘贴 URL 并更新，节点名称会出现在列表中。下载说明只通过官网入口给出，导入成功后再测速切换，而不是先四处寻找第三方安装包。</p></details><details><summary>基础版、旗舰版、团队版该怎么选？</summary><p>轻度网页与三台设备以内选基础版，每月 100GB 普通线路足够入门解锁。需要 300GB、五台设备和全节点原生流媒体、IPLC 游戏优化时选旗舰版，并享受优先工单。工作室或家庭共享出口、需要 1000GB、二十台设备和企业定制路由时选团队版，由专属客户经理协助分流。</p></details><details><summary>设备超限或流量提前用完怎么办？</summary><p>同时在线台数按套餐锁定。超出时下线不用的手机或电脑，会话会立即释放。流量在计费周期内累计，用尽后连接会受限，可升级到更高档或等待重置。团队版可用定制路由把大流量下载排到低峰，减少白天办公被占满的情况。</p></details><details><summary>NTTSS 如何处理流媒体解锁和游戏延迟？</summary><p>基础版提供基础流媒体解锁，适合偶尔播放。旗舰版与团队版启用全节点原生解锁，播放前选择对应地区节点并刷新 DNS。游戏方面依赖 IPLC 专线降低丢包，建议仅代理游戏进程。若延迟异常，先换邻近节点，再检查本地 Wi-Fi 干扰，而不是连续更换全部服务器。</p></details><details><summary>怎样确认自己访问的是 NTTSS 官方网站？</summary><p>认准品牌名 NTTSS 与本页结构：套餐价格、客户端选择和操作说明集中展示，且不夹杂来路不明的安装诱导。订阅与官网下载指引均使用站内锚点说明。若页面改价混乱、缺少套餐条款或要求在聊天工具直接传来历不明的文件，应停止操作并回到本站重新核对。</p></details></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"inner\"><h2>官网信息、广告与友链</h2><div class=\"grid2\"><div class=\"adbox\"><h3>展示广告</h3><p>网络办公套件专题 · 了解文档协同与远程会议组合方案。<a href=\"#\">查看介绍</a></p><p>终端安全清单 · 配合加速器使用时的系统更新与扩展程序检查。<a href=\"#\">阅读清单</a></p></div><div class=\"linkbox\" id=\"sitemap\"><h3>网站地图</h3><p><a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">套餐方案</a> · <a href=\"#clients\">客户端选择</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">操作说明</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#download\">官网下载</a></p><h3>友情链接</h3><p><a href=\"#\">分流规则说明</a> · <a href=\"#\">客户端兼容列表</a> · <a href=\"#\">节点延迟解读</a> · <a href=\"#\">企业路由案例</a></p></div></div><p class=\"muted\">NTTSS 官方网站提供机场订阅、VPN 网络加速与客户端下载说明。内容以套餐条款为准，页面仅作官方信息与操作指引。</p></div></footer>",
+          "hash": "e49352df3d6c7071f7b8dbba1fc70c5ca09e0d59940c9c71105ec6c899c80348",
+          "seo": {
+            "title": "NTTSS官网 - VPN梯子网络加速与机场客户端官方下载",
+            "keywords": "NTTSS,NTTSS机场,NTTSS VPN,NTTSS官网,VPN梯子,网络加速,加速器,客户端下载,官方下载,机场订阅,IPLC专线",
+            "description": "NTTSS提供机场订阅与VPN网络加速服务，覆盖多地区节点与多端客户端下载，帮助用户稳定解锁流媒体、加速跨境办公与游戏，欢迎通过官网了解套餐并获取官方下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bieoq7.cn",
+    "host": "p-b7c8aa27d4.bieoq7.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "bieoq7.cn",
+      "url": "https://bieoq7.cn/",
+      "label": "V2Club",
+      "apex": "bieoq7.cn",
+      "kind": null,
+      "identity": "cwrkaphrp/page-5356513411fef8cd72f0d9a4"
+    },
+    {
+      "host": "changshouzhisheng.cn",
+      "url": "https://changshouzhisheng.cn/",
+      "label": "NTTSS",
+      "apex": "changshouzhisheng.cn",
+      "kind": null,
+      "identity": "cyhttgr/page-0ff09d899e43196e220404d6"
+    },
+    {
+      "host": "guoxinchailv.cn",
+      "url": "https://guoxinchailv.cn/",
+      "label": "NTTSS",
+      "apex": "guoxinchailv.cn",
+      "kind": null,
+      "identity": "nkydahug/page-8cb02c579c08a3353c3cd6d5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e9ecc7c46f41fc18b231ed19787a37a602ae2075f6029fbe46fecc8a99b5e1a2",
+    "sitemap.xml": "38ac8d869cdc60c277a7b68a3b60838307a9ae8a8212d219b0c63ab21dae2521",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fee4013974075f225ba454018f69ab8f399ecd7d114bc1e230bc1db71d568a1e",
+    "robots.txt": "3a91dff443fb2970a449a476e5ce67c698bea6c0fb38d6e3dff41a36c347aa3e",
+    "830cdc439c86b97ceaf1e3383592de9e.txt": "1e10882f8f703d2f1d15bde4215ff5cf3bfface2b91fe6e1225d3fac08492b4a"
+  },
+  "revision": "5985ba97294011624b564d4f2b8faae404f4daf90dd89d7025683f4e5d386ae0"
+}
